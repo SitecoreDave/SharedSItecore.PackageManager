@@ -1,1 +1,1 @@
-# SharedSItecore.PackageManager
+# SharedSitecore.PackageManager
